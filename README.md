@@ -1,4 +1,4 @@
-# Jquery-sehir-ilce
+# Jquery ile şehirler ve ilçeler
 JQuery ile şehirleri ve seçilen şehire göre ilçeleri getiren script
 
 
