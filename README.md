@@ -26,8 +26,6 @@ available    | Seçili şehirleri getirir. Virgüllere ayırarak şehir kodu gir
 blank     |Boolean. Boş select option. Default: true
 
 
-**Not:** 
-
-element <form> tag'leri arasına yazılmazsa script çalışmayacaktır.
+**Not:** select elementi **<form>** tag'leri arasına yazılmazsa script çalışmayacaktır.
 
 script'in orjinal repo'su: https://github.com/winmarkltd/BootstrapFormHelpers
