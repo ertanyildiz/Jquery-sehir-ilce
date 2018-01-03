@@ -26,7 +26,7 @@ available    | Seçili şehirleri getirir. Virgüllere ayırarak şehir kodu gir
 blank     |Boolean. Boş select option. Default: true
 
 
-**Not: ** 
+**Not:** 
 
 element <form> tag'leri arasına yazılmazsa script çalışmayacaktır.
 
